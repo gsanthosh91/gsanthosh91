@@ -15,4 +15,4 @@
 
 ## Reach me via 👇🏻
 
-[![Linkedin](https://raw.githubusercontent.com/gsanthosh91/gsanthosh91.github.io/master/linkedin.png)](https://www.linkedin.com/in/gsanthosh91/)
+[![Linkedin](https://raw.githubusercontent.com/gsanthosh91/gsanthosh91.github.io/master/linkedin24.png)](https://www.linkedin.com/in/gsanthosh91/)
