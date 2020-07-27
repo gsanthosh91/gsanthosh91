@@ -1,16 +1,18 @@
-### Hi there 👋
+**Hi there** 👋🏻
 
-<!--
-**gsanthosh91/gsanthosh91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm an extremely passionate Android Application Developer
 
-Here are some ideas to get you started:
+## About Me 😁
+* 📱 Android Application Developer / Freelancer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ✨ UI / UX Enthusiast
+
+* 📖 Open Source Contributor
+
+* ♥️ Exploring new places
+
+
+
+## Reach me via 👇🏻
+
+[![Linkedin](hello.png)](https://www.linkedin.com/in/gsanthosh91/)
