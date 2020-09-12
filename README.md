@@ -5,7 +5,7 @@
 ## About Me 😁
 * 📱 Android Application Developer / Freelancer
 
-* ✨ UI / UX Enthusiast
+* ✨ Languages: Java (Advanced); Kotlin (Advanced); Swift (Beginner)
 
 * 📖 Open Source Contributor
 
