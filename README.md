@@ -3,7 +3,7 @@
 # I'm an extremely passionate Android Application Developer
 
 ## About Me 😁
-* 📱 Android Application Developer / Freelancer
+* 📱 Android Application Developer
 
 * ✨ Languages: Java (Advanced); Kotlin (Advanced); Swift (Beginner)
 
