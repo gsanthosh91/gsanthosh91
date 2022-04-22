@@ -5,7 +5,7 @@
 ## About Me 😁
 * 📱 Android Application Developer
 
-* ✨ Languages: Java (Advanced); Kotlin (Advanced); Swift (Beginner)
+* ✨ Languages: Java (Advanced); Kotlin (Advanced); Flutter (Advanced)
 
 * 📖 Open Source Contributor
 
