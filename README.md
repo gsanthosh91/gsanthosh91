@@ -3,9 +3,9 @@
 # I'm an extremely passionate Android Application Developer
 
 ## About Me 😁
-* 📱 Android Application Developer
+* 📱 Android/Flutter Application Developer
 
-* ✨ Languages: Java (Advanced); Kotlin (Advanced); Flutter (Advanced)
+* ✨ Languages: Java, Kotlin, Flutter, Dart
 
 * 📖 Open Source Contributor
 
