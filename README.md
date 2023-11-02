@@ -9,8 +9,6 @@
 
 * 📖 Open Source Contributor
 
-* ♥️ Exploring new places
-
 
 <a href="https://github.com/gsanthosh91">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsanthosh91&theme=dracula&hide=css&mode=compact" />
